@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Payzone-UK/pz-node-reverse-proxy.svg?branch=master)](https://travis-ci.org/Payzone-UK/pz-node-reverse-proxy)
+[![Build Status](https://travis-ci.com/Payzone-UK/pz-node-reverse-proxy.svg?branch=master)](https://travis-ci.com/Payzone-UK/pz-node-reverse-proxy)
 
 # Nodejs Reverse Proxy/Tunneling on Heroku
 

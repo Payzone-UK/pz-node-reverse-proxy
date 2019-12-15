@@ -3,6 +3,9 @@
 // This file is licensed under the MIT License.
 // License text available at https://opensource.org/licenses/MIT
 
+if (process.env.NEW_RELIC_LICENSE_KEY) {
+  require('newrelic');
+}
 const app = require('./setup.js');
 
 const port = process.env.PORT || 9000
